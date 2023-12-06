@@ -1,0 +1,11 @@
+form {
+    width: 30%;
+    margin: 2rem auto;
+    border: solid 3px #eee;
+    padding: 10px;
+}
+
+label{
+    font-weight: 500;
+    margin-top: 3px;
+}
